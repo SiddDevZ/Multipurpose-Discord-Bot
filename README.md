@@ -28,3 +28,5 @@ python3 sparty_discord.py
 ```
 
 ## wooho now your bot should be online⚡!!
+
+### btw i know i repeated some code and made it how it shouldn't be made but i was a beginner when i started this project i can make alot of fixes now but it would consume alot of time, feel free to commit changes!
